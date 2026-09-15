@@ -1,0 +1,9 @@
+Hola,
+
+Preparé una vista previa para que vea cómo se sentiría tener la gestión de Ágape más ordenada en el celular: caja, citas, clientas y un resumen del día.
+
+Es un prototipo de oqsoftware, con datos de ejemplo. No es el sistema final. El primer paso real sigue siendo organizar y probar en Excel.
+
+https://oqsoftware.github.io/spa-agape-prototipo/
+
+Entra, toque las pantallas y me cuenta qué le sirve, qué le falta y qué no usaría.
