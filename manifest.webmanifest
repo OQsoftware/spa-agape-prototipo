@@ -1,14 +1,14 @@
 {
-  "name": "Ágape · gestión",
+  "name": "Ágape Clinic spa · gestión",
   "short_name": "Ágape",
   "description": "Vista previa de gestión para Spa Ágape. Prototipo de oqsoftware.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#002040",
-  "theme_color": "#002040",
+  "background_color": "#fffcf9",
+  "theme_color": "#c9a44c",
   "lang": "es-CO",
   "icons": [
-    { "src": "assets/icon-oq.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icon-agape.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
     { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
   ]
 }

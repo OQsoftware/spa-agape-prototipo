@@ -257,7 +257,7 @@ function openCita(id) {
     </div>
     <p><span class="badge ${badge(a.status)}">${a.status}</span></p>
     ${a.note ? `<p class="note">${a.note}</p>` : ""}
-    <button class="btn btn-primary" data-close-sheet style="margin-top:14px;background:var(--navy);color:#fff">Cerrar</button>
+    <button class="btn btn-ghost" data-close-sheet>Cerrar</button>
   `);
 }
 
@@ -271,7 +271,7 @@ function openCliente(id) {
       <div class="kpi"><div class="label">Cuenta</div><div class="value">${c.due ? money(c.due) : "Al día"}</div></div>
     </div>
     <p class="note">Más adelante podremos ver aquí historial de servicios, preferencias y saldos, según lo que Ágape realmente necesite.</p>
-    <button class="btn btn-primary" data-close-sheet style="margin-top:8px;background:var(--navy);color:#fff">Cerrar</button>
+    <button class="btn btn-ghost" data-close-sheet>Cerrar</button>
   `);
 }
 
